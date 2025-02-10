@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://math-ww.github.io/onnirik/sitemap.xml

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>onnirik</title>
+    <link href="https://math-ww.github.io/onnirik/feed.xml" rel="self" />
+    <link href="https://math-ww.github.io/onnirik" />
+    <updated>2025-02-10T22:22:47+01:00</updated>
+    <author>
+        <name>math</name>
+    </author>
+    <id>https://math-ww.github.io/onnirik</id>
+
+    <entry>
+        <title>la panthère</title>
+        <author>
+            <name>math</name>
+        </author>
+        <link href="https://math-ww.github.io/onnirik/la-panthere.html"/>
+        <id>https://math-ww.github.io/onnirik/la-panthere.html</id>
+
+        <updated>2025-02-10T22:22:47+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://math-ww.github.io/onnirik/media/posts/2/lapanthere.png" alt="" width="251" height="251" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-xs.png 320w ,https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-sm.png 480w ,https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-md.png 768w ,https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-xl.png 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Enquêter chez les vieux</title>
+        <author>
+            <name>math</name>
+        </author>
+        <link href="https://math-ww.github.io/onnirik/enqueter-chez-les-vieux.html"/>
+        <id>https://math-ww.github.io/onnirik/enqueter-chez-les-vieux.html</id>
+
+        <updated>2025-02-10T22:19:03+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Je cherche, à travers ce travail de recherche, à poursuivre les études&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Je cherche, à travers ce travail de recherche, à poursuivre les études sur les masculinités en les articulant aux études sur la vieillesse et le vieillissement dans le contexte de la vieillesse en institution, qualifiée de dépendante.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
