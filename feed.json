@@ -25,7 +25,7 @@
             "id": "https://math-ww.github.io/onnirik/la-panthere.html",
             "url": "https://math-ww.github.io/onnirik/la-panthere.html",
             "title": "la panthère",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://math-ww.github.io/onnirik/media/posts/2/lapanthere.png\" alt=\"\" width=\"251\" height=\"251\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-xs.png 640w ,https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-sm.png 768w ,https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-md.png 1024w ,https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-lg.png 1366w ,https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-xl.png 1600w ,https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-2xl.png 1920w\"></figure>",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://math-ww.github.io/onnirik/media/posts/2/lapanthere.png\" alt=\"\" width=\"251\" height=\"251\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-xs.png 320w ,https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-sm.png 480w ,https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-md.png 768w ,https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-xl.png 1024w\"></figure>",
             "author": {
                 "name": "math"
             },
@@ -38,7 +38,7 @@
             "id": "https://math-ww.github.io/onnirik/enqueter-chez-les-vieux.html",
             "url": "https://math-ww.github.io/onnirik/enqueter-chez-les-vieux.html",
             "title": "Enquêter chez les vieux",
-            "summary": "Je cherche, à travers ce travail de recherche, à poursuivre les études sur les masculinités en les articulant aux études sur la vieillesse et le vieillissement dans le contexte de la vieillesse en institution, qualifiée de dépendante.",
+            "summary": "Je cherche, à travers ce travail de recherche, à poursuivre les études&hellip;",
             "content_html": "<p>Je cherche, à travers ce travail de recherche, à poursuivre les études sur les masculinités en les articulant aux études sur la vieillesse et le vieillissement dans le contexte de la vieillesse en institution, qualifiée de dépendante.</p>",
             "author": {
                 "name": "math"

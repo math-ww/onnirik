@@ -33,7 +33,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://math-ww.github.io/onnirik/media/posts/2/lapanthere.png" alt="" width="251" height="251" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-xs.png 640w ,https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-sm.png 768w ,https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-md.png 1024w ,https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-lg.png 1366w ,https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-xl.png 1600w ,https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-2xl.png 1920w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://math-ww.github.io/onnirik/media/posts/2/lapanthere.png" alt="" width="251" height="251" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-xs.png 320w ,https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-sm.png 480w ,https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-md.png 768w ,https://math-ww.github.io/onnirik/media/posts/2/responsive/lapanthere-xl.png 1024w"></figure>
             ]]>
         </content>
     </entry>
@@ -48,7 +48,7 @@
         <updated>2025-02-10T22:19:03+01:00</updated>
             <summary>
                 <![CDATA[
-                    Je cherche, à travers ce travail de recherche, à poursuivre les études sur les masculinités en les articulant aux études sur la vieillesse et le vieillissement dans le contexte de la vieillesse en institution, qualifiée de dépendante.
+                    Je cherche, à travers ce travail de recherche, à poursuivre les études&hellip;
                 ]]>
             </summary>
         <content type="html">
