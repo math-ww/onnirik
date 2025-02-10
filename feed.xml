@@ -3,12 +3,24 @@
     <title>onnirik</title>
     <link href="https://math-ww.github.io/onnirik/feed.xml" rel="self" />
     <link href="https://math-ww.github.io/onnirik" />
-    <updated>2025-02-10T22:22:47+01:00</updated>
+    <updated>2025-02-10T23:58:12+01:00</updated>
     <author>
         <name>math</name>
     </author>
     <id>https://math-ww.github.io/onnirik</id>
 
+    <entry>
+        <title>trial</title>
+        <author>
+            <name>math</name>
+        </author>
+        <link href="https://math-ww.github.io/onnirik/trial.html"/>
+        <id>https://math-ww.github.io/onnirik/trial.html</id>
+
+        <updated>2025-02-10T23:58:12+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>la panthère</title>
         <author>

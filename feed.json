@@ -10,6 +10,18 @@
     },
     "items": [
         {
+            "id": "https://math-ww.github.io/onnirik/trial.html",
+            "url": "https://math-ww.github.io/onnirik/trial.html",
+            "title": "trial",
+            "author": {
+                "name": "math"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-02-10T23:58:12+01:00",
+            "date_modified": "2025-02-10T23:58:12+01:00"
+        },
+        {
             "id": "https://math-ww.github.io/onnirik/la-panthere.html",
             "url": "https://math-ww.github.io/onnirik/la-panthere.html",
             "title": "la panthère",
